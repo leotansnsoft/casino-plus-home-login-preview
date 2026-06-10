@@ -1,0 +1,14 @@
+/**
+ * Casino Plus design token entrypoint
+ * Primitive -> semantic -> component.
+ */
+
+@import "./primitive.css";
+@import "./semantic.css";
+@import "./component-tokens.css";
+
+body {
+  color: var(--cp-semantic-color-text-primary);
+  background: var(--cp-semantic-color-background-canvas-default);
+  font-family: Inter, system-ui, sans-serif;
+}

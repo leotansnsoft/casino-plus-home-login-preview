@@ -1,0 +1,73 @@
+/**
+ * Casino Plus component tokens
+ * Generated from Figma variable token exports.
+ */
+
+:root,
+[data-theme="dark"] {
+  --cp-component-button-primary-fill-start: #FDC800;
+  --cp-component-button-primary-fill-end: #FDC800;
+  --cp-component-button-primary-hover-start: #FEDA54;
+  --cp-component-button-primary-hover-end: #FEDA54;
+  --cp-component-button-primary-radius: 8px;
+  --cp-component-button-primary-height: 44px;
+  --cp-component-button-secondary-fill: #005BDF;
+  --cp-component-button-secondary-hover: #5491EA;
+  --cp-component-button-secondary-radius: 8px;
+  --cp-component-button-secondary-height: 44px;
+  --cp-component-button-tertiary-border: #BEC2C6;
+  --cp-component-button-tertiary-radius: 8px;
+  --cp-component-button-tertiary-height: 44px;
+  --cp-component-button-disable-fill: #C8CED2;
+  --cp-component-button-disable-hover: #E5EBF0;
+  --cp-component-button-disable-radius: 8px;
+  --cp-component-button-disable-height: 44px;
+  --cp-component-tab-pill-default: #D9DFE3;
+  --cp-component-tab-pill-active: #346087;
+  --cp-component-tab-pill-hover: #7794AF;
+  --cp-component-tab-pill-border-default: #D9DFE3;
+  --cp-component-tab-pill-border-active: #7794AF;
+  --cp-component-tab-pill-height: 28px;
+  --cp-component-tab-pill-radius: 8px;
+  --cp-component-tab-pill-gap-content: 4px;
+  --cp-component-tab-pill-padding-x: 16px;
+  --cp-component-tab-pill-gradient-default: #D9DFE3;
+  --cp-component-tab-pill-gradient-active-start: #168E78;
+  --cp-component-tab-pill-gradient-active-end: #337CE5;
+  --cp-component-tab-pill-gradient-hover-start: #63B3A5;
+  --cp-component-tab-pill-gradient-hover-end: #8AB4F0;
+  --cp-component-tab-pill-gradient-height: 40px;
+  --cp-component-tab-pill-gradient-radius: 9999px;
+  --cp-component-tab-filled-default: #D9DFE3;
+  --cp-component-tab-filled-active: #009ADB;
+  --cp-component-tab-filled-hover: #54BBE7;
+  --cp-component-tab-filled-border-active: #8AD1EE;
+  --cp-component-tab-filled-border-hover: #B0E0F4;
+  --cp-component-tab-filled-height: 36px;
+  --cp-component-tab-filled-radius: 8px;
+  --cp-component-tab-filled-gap-content: 4px;
+  --cp-component-tab-filled-padding-x: 16px;
+  --cp-component-tab-underline-active: #005BDF;
+  --cp-component-tab-underline-hover: #5491EA;
+  --cp-component-tab-underline-radius: 8px;
+  --cp-component-navigation-bar-icon-default: rgb(255 255 255 / 0.7);
+  --cp-component-navigation-bar-icon-selected: #FDC800;
+  --cp-component-navigation-bar-background-selected: rgb(0 0 0 / 0.4);
+  --cp-component-navigation-bar-background: rgb(0 0 0 / 0.6);
+  --cp-component-navigation-bar-radius: 9999px;
+  --cp-component-navigation-bar-bar-height: 56px;
+  --cp-component-card-default: #F4F8FA;
+  --cp-component-card-active: #BEEAC2;
+  --cp-component-card-disable: #C8CED2;
+  --cp-component-card-border-default: #FFFFFF;
+  --cp-component-card-border-active: #57C861;
+  --cp-component-card-border-danger: #FE8C8A;
+  --cp-component-card-radius: 8px;
+  --cp-component-card-padding: 16px;
+  --cp-component-card-shadow: rgb(1 35 255 / 0.1);
+  --cp-component-header-main-page: #F4F8FA;
+  --cp-component-header-sub-page: #578684;
+  --cp-component-header-padding: 12px;
+  --cp-component-footer-default: rgb(0 0 0 / 0.6);
+  --cp-component-footer-padding: 16px;
+}
